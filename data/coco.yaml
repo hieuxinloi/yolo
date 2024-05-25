@@ -1,6 +1,6 @@
-path: ../content/drive/MyDrive/yolov9/datasets  # dataset root dir
-train: /content/drive/MyDrive/yolov9/datasets/coco128/images  # train images (relative to 'path') 118287 images
-val: /content/drive/MyDrive/yolov9/datasets/coco128/images  # val images (relative to 'path') 5000 images
+path: ../kaggle/working/yolo/datasets  # dataset root dir
+train: /kaggle/working/yolo/datasets/coco128/images  # train images (relative to 'path') 118287 images
+val: /kaggle/working/yolo/datasets/coco128/images  # val images (relative to 'path') 5000 images
  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # Classes
