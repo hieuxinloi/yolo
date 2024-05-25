@@ -1,0 +1,13 @@
+﻿cardboard
+clothes
+fabric
+foam box
+food
+glass
+leaf
+metal
+paper
+plastic
+plastic bag
+trash
+wood
